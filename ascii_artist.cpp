@@ -7,8 +7,8 @@
 typedef unsigned char byte;
 
 const char MAP[] = "$@B%8&WM#*oahkbdpqwmZO0QLCJUYXzcvunxrjft/\\|()1{}[]?-_+~<>i!lI;:,\"^`'. ";
-const int CELL_WIDTH = 6;
-const int CELL_HEIGHT = 12;
+const int CELL_WIDTH = 10;
+const int CELL_HEIGHT = 20;
 
 char path[1024];
 
